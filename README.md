@@ -1,1 +1,6 @@
 # unearthig-the-Environmental-Impact-of-Human-activity-A-Global-CO2-Emmission-Analysis
+
+Dashboard link:https://public.tableau.com/views/dash1_16825904464190/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
+
+Story link:https://public.tableau.com/views/CO2STORY_16825840556020/Co2EmissionOverPast10Years?:language=en-US&:display_count=n&:origin=viz_share_link
+
